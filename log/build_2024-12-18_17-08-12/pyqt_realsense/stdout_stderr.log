@@ -1,0 +1,33 @@
+running egg_info
+writing build/pyqt_realsense/pyqt_realsense.egg-info/PKG-INFO
+writing dependency_links to build/pyqt_realsense/pyqt_realsense.egg-info/dependency_links.txt
+writing entry points to build/pyqt_realsense/pyqt_realsense.egg-info/entry_points.txt
+writing requirements to build/pyqt_realsense/pyqt_realsense.egg-info/requires.txt
+writing top-level names to build/pyqt_realsense/pyqt_realsense.egg-info/top_level.txt
+reading manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'
+writing manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build
+creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib
+creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+copying pyqt_realsense/viewer.py -> /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+copying pyqt_realsense/__init__.py -> /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+running install
+running install_lib
+creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+copying /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense/viewer.py -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+copying /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense/__init__.py -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+byte-compiling /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense/viewer.py to viewer.cpython-310.pyc
+byte-compiling /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index
+creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index
+creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index/packages
+copying resource/pyqt_realsense -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index/packages
+copying package.xml -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/pyqt_realsense
+running install_egg_info
+Copying build/pyqt_realsense/pyqt_realsense.egg-info to /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense-0.1.0-py3.10.egg-info
+running install_scripts
+Installing viewer script to /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/pyqt_realsense
+writing list of installed files to '/home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/install.log'

@@ -1,0 +1,9 @@
+running egg_info
+creating build/pyqt_realsense/pyqt_realsense.egg-info
+writing build/pyqt_realsense/pyqt_realsense.egg-info/PKG-INFO
+writing dependency_links to build/pyqt_realsense/pyqt_realsense.egg-info/dependency_links.txt
+writing entry points to build/pyqt_realsense/pyqt_realsense.egg-info/entry_points.txt
+writing requirements to build/pyqt_realsense/pyqt_realsense.egg-info/requires.txt
+writing top-level names to build/pyqt_realsense/pyqt_realsense.egg-info/top_level.txt
+writing manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'
+reading manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'

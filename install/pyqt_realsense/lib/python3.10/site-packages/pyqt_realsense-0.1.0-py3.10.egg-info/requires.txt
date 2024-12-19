@@ -1,0 +1,4 @@
+setuptools
+pyrealsense2
+PyQt5
+rclpy

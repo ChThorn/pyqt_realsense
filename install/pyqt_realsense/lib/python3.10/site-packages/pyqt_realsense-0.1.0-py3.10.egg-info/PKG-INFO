@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pyqt-realsense
+Version: 0.1.0
+Summary: PyQt5 application for RealSense in ROS 2
+Maintainer: Your Name
+Maintainer-email: your_email@example.com
+License: Apache License 2.0

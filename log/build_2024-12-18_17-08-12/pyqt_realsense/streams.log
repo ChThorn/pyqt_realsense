@@ -1,0 +1,35 @@
+[0.548s] Invoking command in '/home/thornch/ROS2_Repo/pyqt_realsense': PYTHONPATH=/home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pyqt_realsense build --build-base /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build install --record /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/install.log --single-version-externally-managed install_data
+[0.753s] running egg_info
+[0.761s] writing build/pyqt_realsense/pyqt_realsense.egg-info/PKG-INFO
+[0.761s] writing dependency_links to build/pyqt_realsense/pyqt_realsense.egg-info/dependency_links.txt
+[0.761s] writing entry points to build/pyqt_realsense/pyqt_realsense.egg-info/entry_points.txt
+[0.761s] writing requirements to build/pyqt_realsense/pyqt_realsense.egg-info/requires.txt
+[0.761s] writing top-level names to build/pyqt_realsense/pyqt_realsense.egg-info/top_level.txt
+[0.776s] reading manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'
+[0.776s] writing manifest file 'build/pyqt_realsense/pyqt_realsense.egg-info/SOURCES.txt'
+[0.776s] running build
+[0.776s] running build_py
+[0.776s] creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build
+[0.776s] creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib
+[0.776s] creating /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+[0.776s] copying pyqt_realsense/viewer.py -> /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+[0.776s] copying pyqt_realsense/__init__.py -> /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense
+[0.777s] running install
+[0.779s] running install_lib
+[0.786s] creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+[0.786s] copying /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense/viewer.py -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+[0.786s] copying /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build/lib/pyqt_realsense/__init__.py -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense
+[0.786s] byte-compiling /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense/viewer.py to viewer.cpython-310.pyc
+[0.787s] byte-compiling /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense/__init__.py to __init__.cpython-310.pyc
+[0.787s] running install_data
+[0.787s] creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index
+[0.787s] creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index
+[0.787s] creating /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index/packages
+[0.787s] copying resource/pyqt_realsense -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/ament_index/resource_index/packages
+[0.787s] copying package.xml -> /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/share/pyqt_realsense
+[0.787s] running install_egg_info
+[0.795s] Copying build/pyqt_realsense/pyqt_realsense.egg-info to /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages/pyqt_realsense-0.1.0-py3.10.egg-info
+[0.795s] running install_scripts
+[0.826s] Installing viewer script to /home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/pyqt_realsense
+[0.826s] writing list of installed files to '/home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/install.log'
+[0.847s] Invoked command in '/home/thornch/ROS2_Repo/pyqt_realsense' returned '0': PYTHONPATH=/home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thornch/ROS2_Repo/pyqt_realsense/install/pyqt_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pyqt_realsense build --build-base /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/build install --record /home/thornch/ROS2_Repo/pyqt_realsense/build/pyqt_realsense/install.log --single-version-externally-managed install_data
